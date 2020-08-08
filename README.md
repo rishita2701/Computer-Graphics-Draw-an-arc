@@ -1,2 +1,2 @@
-# Computer-Graphics-Draw-an-arc
-Program to draw an arc
+# Computer-Graphics-Draw-an-basic-shapes
+Program to draw an basic shapes in Graphics in C++
